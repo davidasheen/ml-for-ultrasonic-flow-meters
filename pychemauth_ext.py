@@ -1,0 +1,1 @@
+../ginseng/nmr/pychemauth_ext.py
